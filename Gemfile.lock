@@ -64,6 +64,7 @@ GEM
       nokogiri (~> 1.8)
 
 PLATFORMS
+  x86_64-darwin-18
   x86_64-darwin-19
 
 DEPENDENCIES
@@ -78,4 +79,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   2.2.23
+   2.3.26
